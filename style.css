@@ -12,7 +12,25 @@ p{
   background-color: white;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 50px;
   width: 30em;
-  font-family:"comic-sans";
+}
+h2{
+  font-size: 60px;
+  font-family: "summit";
+  background-color: #1e8abe;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15em;
+  color:white;
+}
+.everything{
+  width 100px;
+}
+.chant{
+  text-align: center;
+  font-style: italic;
+  color: green;
+  font-size: 40px;
+  width: 22.5em;
+
 }
